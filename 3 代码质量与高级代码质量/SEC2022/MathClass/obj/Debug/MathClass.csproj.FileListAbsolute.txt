@@ -1,0 +1,47 @@
+C:\Users\Wynston\Desktop\软件工程训练营\课程资料\SEC2018\MathClass\bin\Debug\MathClass.xml
+C:\Users\Wynston\Desktop\软件工程训练营\课程资料\SEC2018\MathClass\bin\Debug\MathClass.dll
+C:\Users\Wynston\Desktop\软件工程训练营\课程资料\SEC2018\MathClass\bin\Debug\MathClass.pdb
+C:\Users\Wynston\Desktop\软件工程训练营\课程资料\SEC2018\MathClass\obj\Debug\MathClass.csproj.CoreCompileInputs.cache
+C:\Users\Wynston\Desktop\软件工程训练营\课程资料\SEC2018\MathClass\obj\Debug\MathClass.dll
+C:\Users\Wynston\Desktop\软件工程训练营\课程资料\SEC2018\MathClass\obj\Debug\MathClass.pdb
+C:\Users\Wynston\Desktop\软件工程训练营\课程资料\SEC2018\MathClass\obj\Debug\MathClass.csprojAssemblyReference.cache
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\SEC2018\MathClass\bin\Debug\MathClass.xml
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\SEC2018\MathClass\bin\Debug\MathClass.dll
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\SEC2018\MathClass\bin\Debug\MathClass.pdb
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\SEC2018\MathClass\obj\Debug\MathClass.csproj.CoreCompileInputs.cache
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\SEC2018\MathClass\obj\Debug\MathClass.dll
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\SEC2018\MathClass\obj\Debug\MathClass.pdb
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\SEC2018\MathClass\obj\Debug\MathClass.csprojAssemblyReference.cache
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\第三讲作业及课后材料\SEC2018\MathClass\obj\Debug\MathClass.csprojAssemblyReference.cache
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\第三讲作业及课后材料\SEC2018\MathClass\obj\Debug\MathClass.csproj.CoreCompileInputs.cache
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\第三讲作业及课后材料\SEC2018\MathClass\obj\Debug\MathClass.dll
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\第三讲作业及课后材料\SEC2018\MathClass\obj\Debug\MathClass.pdb
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\第三讲作业及课后材料\SEC2018\MathClass\bin\Debug\MathClass.xml
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\第三讲作业及课后材料\SEC2018\MathClass\bin\Debug\MathClass.dll
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\第三讲作业及课后材料\SEC2018\MathClass\bin\Debug\MathClass.pdb
+C:\Users\HUST\Desktop\软件工程训练营\软件工程训练营2019\第3讲 高级代码质量\SEC2019\MathClass\bin\Debug\MathClass.xml
+C:\Users\HUST\Desktop\软件工程训练营\软件工程训练营2019\第3讲 高级代码质量\SEC2019\MathClass\bin\Debug\MathClass.dll
+C:\Users\HUST\Desktop\软件工程训练营\软件工程训练营2019\第3讲 高级代码质量\SEC2019\MathClass\bin\Debug\MathClass.pdb
+C:\Users\HUST\Desktop\软件工程训练营\软件工程训练营2019\第3讲 高级代码质量\SEC2019\MathClass\obj\Debug\MathClass.csproj.CoreCompileInputs.cache
+C:\Users\HUST\Desktop\软件工程训练营\软件工程训练营2019\第3讲 高级代码质量\SEC2019\MathClass\obj\Debug\MathClass.dll
+C:\Users\HUST\Desktop\软件工程训练营\软件工程训练营2019\第3讲 高级代码质量\SEC2019\MathClass\obj\Debug\MathClass.pdb
+E:\软件工程训练营2021\课件\3 代码质量与高级代码质量\SEC2021\MathClass\bin\Debug\MathClass.xml
+E:\软件工程训练营2021\课件\3 代码质量与高级代码质量\SEC2021\MathClass\bin\Debug\MathClass.dll
+E:\软件工程训练营2021\课件\3 代码质量与高级代码质量\SEC2021\MathClass\bin\Debug\MathClass.pdb
+E:\软件工程训练营2021\课件\3 代码质量与高级代码质量\SEC2021\MathClass\obj\Debug\MathClass.csproj.CoreCompileInputs.cache
+E:\软件工程训练营2021\课件\3 代码质量与高级代码质量\SEC2021\MathClass\obj\Debug\MathClass.dll
+E:\软件工程训练营2021\课件\3 代码质量与高级代码质量\SEC2021\MathClass\obj\Debug\MathClass.pdb
+E:\课题组项目\软件工程训练营\软件工程训练营2022\3 代码质量与高级代码质量\SEC2022\MathClass\bin\Debug\MathClass.xml
+E:\课题组项目\软件工程训练营\软件工程训练营2022\3 代码质量与高级代码质量\SEC2022\MathClass\bin\Debug\MathClass.dll
+E:\课题组项目\软件工程训练营\软件工程训练营2022\3 代码质量与高级代码质量\SEC2022\MathClass\bin\Debug\MathClass.pdb
+E:\课题组项目\软件工程训练营\软件工程训练营2022\3 代码质量与高级代码质量\SEC2022\MathClass\obj\Debug\MathClass.csproj.AssemblyReference.cache
+E:\课题组项目\软件工程训练营\软件工程训练营2022\3 代码质量与高级代码质量\SEC2022\MathClass\obj\Debug\MathClass.csproj.CoreCompileInputs.cache
+E:\课题组项目\软件工程训练营\软件工程训练营2022\3 代码质量与高级代码质量\SEC2022\MathClass\obj\Debug\MathClass.dll
+E:\课题组项目\软件工程训练营\软件工程训练营2022\3 代码质量与高级代码质量\SEC2022\MathClass\obj\Debug\MathClass.pdb
+C:\Users\HUST\Desktop\软件工程训练营\软件工程训练营2022\3 代码质量与高级代码质量\SEC2022\MathClass\bin\Debug\MathClass.xml
+C:\Users\HUST\Desktop\软件工程训练营\软件工程训练营2022\3 代码质量与高级代码质量\SEC2022\MathClass\bin\Debug\MathClass.dll
+C:\Users\HUST\Desktop\软件工程训练营\软件工程训练营2022\3 代码质量与高级代码质量\SEC2022\MathClass\bin\Debug\MathClass.pdb
+C:\Users\HUST\Desktop\软件工程训练营\软件工程训练营2022\3 代码质量与高级代码质量\SEC2022\MathClass\obj\Debug\MathClass.csproj.AssemblyReference.cache
+C:\Users\HUST\Desktop\软件工程训练营\软件工程训练营2022\3 代码质量与高级代码质量\SEC2022\MathClass\obj\Debug\MathClass.csproj.CoreCompileInputs.cache
+C:\Users\HUST\Desktop\软件工程训练营\软件工程训练营2022\3 代码质量与高级代码质量\SEC2022\MathClass\obj\Debug\MathClass.dll
+C:\Users\HUST\Desktop\软件工程训练营\软件工程训练营2022\3 代码质量与高级代码质量\SEC2022\MathClass\obj\Debug\MathClass.pdb

@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MathClass</name>
+    </assembly>
+    <members>
+        <member name="T:MathClass.BasicMath">
+            <summary>
+            Th main Basic Math class. Contains all methods for performing basic math functions.
+            <list type="number">
+            <item>
+            <term>Add</term>
+            <description>Addition Operation</description>
+            </item>
+            <item>
+            <term>Substract</term>
+            <description>Substraction Operation</description>
+            </item>
+            <item>
+            <term>Multiply</term>
+            <description>Multiplicaition Operation</description>
+            </item>
+            <item>
+            <term>Divide</term>
+            <description>Dvision Operation</description>
+            </item>
+            </list>
+            </summary>
+        </member>
+        <member name="M:MathClass.BasicMath.Add(System.Int32,System.Int32)">
+            <summary>
+            Add two integers and returns the result
+            </summary>
+            <param name="a">An integer</param>
+            <param name="b">An interger</param>
+            <returns>The sum of two integers</returns>
+        </member>
+        <member name="M:MathClass.BasicMath.Add(System.Double,System.Double)">
+            <summary>
+            Add two doubles and returns the result
+            </summary>
+            <param name="a">A double precision number</param>
+            <param name="b">A double precision number</param>
+            <returns>The sum of two doubles</returns>
+        </member>
+        <member name="M:MathClass.BasicMath.Substract(System.Int32,System.Int32)">
+            <summary>
+            Substracts b from a and returns the result
+            </summary>
+            <param name="a">An integer</param>
+            <param name="b">An integer</param>
+            <example>
+            <code>
+            int c = BasicMath.Substract(4, 5);
+            if (c > 1)
+            {
+                Console.WriteLine(c);
+             }
+            </code>
+            </example>
+            <returns>The difference between two integers</returns>
+        </member>
+        <member name="M:MathClass.BasicMath.Substract(System.Double,System.Double)">
+            <summary>
+            Substracts a double from another double and returns the result
+            </summary>
+            <param name="a">A double precision number</param>
+            <param name="b">A double precision number</param>
+            <returns>The differences of two doubles</returns>
+        </member>
+        <member name="M:MathClass.BasicMath.Multiply(System.Int32,System.Int32)">
+            <summary>
+            Multiplies two integers and returns the result
+            </summary>
+            <param name="a">An integer</param>
+            <param name="b">An integer</param>
+            <returns>The product of two integers</returns>
+        </member>
+        <member name="M:MathClass.BasicMath.Multiply(System.Double,System.Double)">
+            <summary>
+            Multiplies two doubles and returns the result
+            </summary>
+            <param name="a">A double precision number</param>
+            <param name="b">A double precision number</param>
+            <returns>The product of two doubles</returns>
+        </member>
+        <member name="M:MathClass.BasicMath.Divide(System.Int32,System.Int32)">
+            <summary>
+            Divide an integer by another and returns the result
+            </summary>
+            <param name="a">An integer dividend</param>
+            <param name="b">An integer divisor</param>
+            <exception cref="T:System.DivideByZeroException">Thrown when <paramref name="b"/> is equal to 0.</exception>
+            <returns>The quotient of two integers</returns>
+        </member>
+        <member name="M:MathClass.BasicMath.Divide(System.Double,System.Double)">
+            <summary>
+            Divides a double by another and returns the result
+            </summary>
+            <param name="a">A double precision number</param>
+            <param name="b">A double precision number</param>
+            <returns>the quotient of two doubles</returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,100 @@
+C:\Users\Wynston\Desktop\软件工程训练营\课程资料\SEC2018\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Wynston\Desktop\软件工程训练营\课程资料\SEC2018\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Wynston\Desktop\软件工程训练营\课程资料\SEC2018\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Wynston\Desktop\软件工程训练营\课程资料\SEC2018\UnitTest\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Wynston\Desktop\软件工程训练营\课程资料\SEC2018\UnitTest\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Wynston\Desktop\软件工程训练营\课程资料\SEC2018\UnitTest\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Wynston\Desktop\软件工程训练营\课程资料\SEC2018\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\Wynston\Desktop\软件工程训练营\课程资料\SEC2018\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\Wynston\Desktop\软件工程训练营\课程资料\SEC2018\UnitTest\bin\Debug\MathClass.dll
+C:\Users\Wynston\Desktop\软件工程训练营\课程资料\SEC2018\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Wynston\Desktop\软件工程训练营\课程资料\SEC2018\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Wynston\Desktop\软件工程训练营\课程资料\SEC2018\UnitTest\bin\Debug\MathClass.pdb
+C:\Users\Wynston\Desktop\软件工程训练营\课程资料\SEC2018\UnitTest\bin\Debug\MathClass.xml
+C:\Users\Wynston\Desktop\软件工程训练营\课程资料\SEC2018\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Wynston\Desktop\软件工程训练营\课程资料\SEC2018\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Wynston\Desktop\软件工程训练营\课程资料\SEC2018\UnitTest\obj\Debug\UnitTest.csprojAssemblyReference.cache
+C:\Users\Wynston\Desktop\软件工程训练营\课程资料\SEC2018\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Wynston\Desktop\软件工程训练营\课程资料\SEC2018\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
+C:\Users\Wynston\Desktop\软件工程训练营\课程资料\SEC2018\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\Wynston\Desktop\软件工程训练营\课程资料\SEC2018\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\SEC2018\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\SEC2018\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\SEC2018\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\SEC2018\UnitTest\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\SEC2018\UnitTest\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\SEC2018\UnitTest\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\SEC2018\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\SEC2018\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\SEC2018\UnitTest\bin\Debug\MathClass.dll
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\SEC2018\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\SEC2018\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\SEC2018\UnitTest\bin\Debug\MathClass.pdb
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\SEC2018\UnitTest\bin\Debug\MathClass.xml
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\SEC2018\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\SEC2018\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\SEC2018\UnitTest\obj\Debug\UnitTest.csprojAssemblyReference.cache
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\SEC2018\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\SEC2018\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\SEC2018\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\SEC2018\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\第三讲作业及课后材料\SEC2018\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\第三讲作业及课后材料\SEC2018\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\第三讲作业及课后材料\SEC2018\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\第三讲作业及课后材料\SEC2018\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\第三讲作业及课后材料\SEC2018\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\第三讲作业及课后材料\SEC2018\UnitTest\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\第三讲作业及课后材料\SEC2018\UnitTest\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\第三讲作业及课后材料\SEC2018\UnitTest\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\第三讲作业及课后材料\SEC2018\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\第三讲作业及课后材料\SEC2018\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\第三讲作业及课后材料\SEC2018\UnitTest\bin\Debug\MathClass.dll
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\第三讲作业及课后材料\SEC2018\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\第三讲作业及课后材料\SEC2018\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\第三讲作业及课后材料\SEC2018\UnitTest\bin\Debug\MathClass.pdb
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\第三讲作业及课后材料\SEC2018\UnitTest\bin\Debug\MathClass.xml
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\第三讲作业及课后材料\SEC2018\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\第三讲作业及课后材料\SEC2018\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\第三讲作业及课后材料\SEC2018\UnitTest\obj\Debug\UnitTest.csprojAssemblyReference.cache
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\第三讲作业及课后材料\SEC2018\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Wynston\Dropbox\软件工程训练营\课程资料\第三讲作业及课后材料\SEC2018\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
+C:\Users\HUST\Desktop\软件工程训练营\软件工程训练营2019\第3讲 高级代码质量\SEC2019\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\HUST\Desktop\软件工程训练营\软件工程训练营2019\第3讲 高级代码质量\SEC2019\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\HUST\Desktop\软件工程训练营\软件工程训练营2019\第3讲 高级代码质量\SEC2019\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\HUST\Desktop\软件工程训练营\软件工程训练营2019\第3讲 高级代码质量\SEC2019\UnitTest\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\HUST\Desktop\软件工程训练营\软件工程训练营2019\第3讲 高级代码质量\SEC2019\UnitTest\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\HUST\Desktop\软件工程训练营\软件工程训练营2019\第3讲 高级代码质量\SEC2019\UnitTest\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\HUST\Desktop\软件工程训练营\软件工程训练营2019\第3讲 高级代码质量\SEC2019\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\HUST\Desktop\软件工程训练营\软件工程训练营2019\第3讲 高级代码质量\SEC2019\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\HUST\Desktop\软件工程训练营\软件工程训练营2019\第3讲 高级代码质量\SEC2019\UnitTest\bin\Debug\MathClass.dll
+C:\Users\HUST\Desktop\软件工程训练营\软件工程训练营2019\第3讲 高级代码质量\SEC2019\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\HUST\Desktop\软件工程训练营\软件工程训练营2019\第3讲 高级代码质量\SEC2019\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\HUST\Desktop\软件工程训练营\软件工程训练营2019\第3讲 高级代码质量\SEC2019\UnitTest\bin\Debug\MathClass.pdb
+C:\Users\HUST\Desktop\软件工程训练营\软件工程训练营2019\第3讲 高级代码质量\SEC2019\UnitTest\bin\Debug\MathClass.xml
+C:\Users\HUST\Desktop\软件工程训练营\软件工程训练营2019\第3讲 高级代码质量\SEC2019\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\HUST\Desktop\软件工程训练营\软件工程训练营2019\第3讲 高级代码质量\SEC2019\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\HUST\Desktop\软件工程训练营\软件工程训练营2019\第3讲 高级代码质量\SEC2019\UnitTest\obj\Debug\UnitTest.csprojAssemblyReference.cache
+C:\Users\HUST\Desktop\软件工程训练营\软件工程训练营2019\第3讲 高级代码质量\SEC2019\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\HUST\Desktop\软件工程训练营\软件工程训练营2019\第3讲 高级代码质量\SEC2019\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
+C:\Users\HUST\Desktop\软件工程训练营\软件工程训练营2019\第3讲 高级代码质量\SEC2019\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\HUST\Desktop\软件工程训练营\软件工程训练营2019\第3讲 高级代码质量\SEC2019\UnitTest\obj\Debug\UnitTest.pdb
+E:\软件工程训练营2021\课件\3 代码质量与高级代码质量\SEC2021\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\软件工程训练营2021\课件\3 代码质量与高级代码质量\SEC2021\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\软件工程训练营2021\课件\3 代码质量与高级代码质量\SEC2021\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\软件工程训练营2021\课件\3 代码质量与高级代码质量\SEC2021\UnitTest\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+E:\软件工程训练营2021\课件\3 代码质量与高级代码质量\SEC2021\UnitTest\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+E:\软件工程训练营2021\课件\3 代码质量与高级代码质量\SEC2021\UnitTest\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\软件工程训练营2021\课件\3 代码质量与高级代码质量\SEC2021\UnitTest\bin\Debug\UnitTest.dll
+E:\软件工程训练营2021\课件\3 代码质量与高级代码质量\SEC2021\UnitTest\bin\Debug\UnitTest.pdb
+E:\软件工程训练营2021\课件\3 代码质量与高级代码质量\SEC2021\UnitTest\bin\Debug\MathClass.dll
+E:\软件工程训练营2021\课件\3 代码质量与高级代码质量\SEC2021\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\软件工程训练营2021\课件\3 代码质量与高级代码质量\SEC2021\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\软件工程训练营2021\课件\3 代码质量与高级代码质量\SEC2021\UnitTest\bin\Debug\MathClass.pdb
+E:\软件工程训练营2021\课件\3 代码质量与高级代码质量\SEC2021\UnitTest\bin\Debug\MathClass.xml
+E:\软件工程训练营2021\课件\3 代码质量与高级代码质量\SEC2021\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\软件工程训练营2021\课件\3 代码质量与高级代码质量\SEC2021\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\软件工程训练营2021\课件\3 代码质量与高级代码质量\SEC2021\UnitTest\obj\Debug\UnitTest.csproj.AssemblyReference.cache
+E:\软件工程训练营2021\课件\3 代码质量与高级代码质量\SEC2021\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+E:\软件工程训练营2021\课件\3 代码质量与高级代码质量\SEC2021\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
+E:\软件工程训练营2021\课件\3 代码质量与高级代码质量\SEC2021\UnitTest\obj\Debug\UnitTest.dll
+E:\软件工程训练营2021\课件\3 代码质量与高级代码质量\SEC2021\UnitTest\obj\Debug\UnitTest.pdb

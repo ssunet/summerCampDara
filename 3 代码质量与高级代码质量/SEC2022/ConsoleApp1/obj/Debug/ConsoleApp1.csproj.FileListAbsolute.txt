@@ -1,0 +1,11 @@
+E:\软件工程训练营2021\课件\3 代码质量与高级代码质量\SEC2021\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\软件工程训练营2021\课件\3 代码质量与高级代码质量\SEC2021\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\软件工程训练营2021\课件\3 代码质量与高级代码质量\SEC2021\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\软件工程训练营2021\课件\3 代码质量与高级代码质量\SEC2021\ConsoleApp1\bin\Debug\MathClass.dll
+E:\软件工程训练营2021\课件\3 代码质量与高级代码质量\SEC2021\ConsoleApp1\bin\Debug\MathClass.pdb
+E:\软件工程训练营2021\课件\3 代码质量与高级代码质量\SEC2021\ConsoleApp1\bin\Debug\MathClass.xml
+E:\软件工程训练营2021\课件\3 代码质量与高级代码质量\SEC2021\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\软件工程训练营2021\课件\3 代码质量与高级代码质量\SEC2021\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\软件工程训练营2021\课件\3 代码质量与高级代码质量\SEC2021\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+E:\软件工程训练营2021\课件\3 代码质量与高级代码质量\SEC2021\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\软件工程训练营2021\课件\3 代码质量与高级代码质量\SEC2021\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
